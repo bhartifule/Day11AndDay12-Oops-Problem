@@ -7,7 +7,7 @@ public class Stock {
 	    private int totalValueOfStock;
 	    private int valueOfStock;
 
-	    public int getValueOfStock() {
+	    public int getValueOfStock(){
 	        return valueOfStock;
 	    }
 
